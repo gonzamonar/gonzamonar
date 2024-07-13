@@ -4,9 +4,9 @@
 👨‍🎓 En mi último cuatrimestre de la [Tecnicatura Universitaria en Programación](https://fra.utn.edu.ar/tecnicatura-universitaria/) de la Universidad Tecnológica Nacional (UTN-FRA)<br/>
 🌱 Actualmente aprendiendo [Ionic Framework](https://ionicframework.com)!<br/>
 
-## 🌐 Redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzalo-monar) 
+## 🌐 Contacto:
 [![Email](https://img.shields.io/badge/Gmail-%EA4335FF.svg?style=flat&logo=gmail&logoColor=white&color=%23EA4335)](mailto:gonza.monar@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzalo-monar) 
 
 ## 💻 Tech Stack:
 #### Lenguajes
