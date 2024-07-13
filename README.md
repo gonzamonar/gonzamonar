@@ -6,6 +6,7 @@
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzalo-monar) 
+[![Email](https://img.shields.io/badge/Gmail-%EA4335FF.svg?style=flat&logo=gmail&logoColor=white&color=%23EA4335)](mailto:gonza.monar@gmail.com) 
 
 ## 💻 Tech Stack:
 #### Lenguajes
@@ -47,8 +48,10 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 
 ## 📊 Stats:
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=gonzamonar&theme=moltack&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gonzamonar&theme=moltack&hide_border=true)<br/>
+-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzamonar&theme=moltack&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
