@@ -2,7 +2,7 @@
 ## Sobre mí:
 💻 Programador Full Stack<br/>
 👨‍🎓 En mi último cuatrimestre de la [Tecnicatura Universitaria en Programación](https://fra.utn.edu.ar/tecnicatura-universitaria/) de la Universidad Tecnológica Nacional (UTN-FRA)<br/>
-🌱 Actualmente aprendiendo [Ionic Framework](https://ionicframework.com)!<br/>
+🌱 Actualmente aprendiendo [Ionic Framework](https://ionicframework.com) y [Swagger / OpenAPI](https://swagger.io)<br/>
 
 ## 🌐 Contacto:
 [![Email](https://img.shields.io/badge/Gmail-%EA4335FF.svg?style=flat&logo=gmail&logoColor=white&color=%23EA4335)](mailto:gonza.monar@gmail.com) 
